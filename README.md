@@ -39,6 +39,13 @@ If you used any third-party assets that require attribution, list the creators w
 
 If you followed tutorials, include links to those here as well.
 
+## Tutorial Links: 
+https://courses.bootcampspot.com/courses/3883/assignments/57119?module_item_id=1004720
+https://www.w3schools.com/css/css_selectors.asp
+https://www.w3schools.com/html/html_attributes.asp
+https://htmlcheatsheet.com/css/
+https://apps.apple.com/us/app/mimo-learn-coding-programming/id1133960732?ppid=36dc2281-6a01-4f94-ad52-05a0a7062255
+https://youtu.be/tRZGeaHPoaw 
 ## License
 
 MIT License
