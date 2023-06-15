@@ -1,44 +1,40 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
-## This assignment was given in our boot camp course to allow students to practice refactoring lines of code and using the Scouts Honor to leave the code a bit more cleaner than given This project allowed me to challenge my thinking about HTML and CSS it also gave me an opportunity to problem solve and to ask questions/help when I felt stuck also, during this challenge it allowed me to git acquainted with git hub and the command terminal. 
+## This assignment was assigned during our boot camp course to allow students to practice refactoring lines of code and adhere to best practices, aiming to leave the code in a cleaner and more organized state than initially given. The project revolved around HTML and CSS, challenging my understanding of these languages and allowing me to enhance my problem-solving skills. It also allowed me to seek assistance or ask questions whenever I encountered difficulties.
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+   My motivation behind undertaking this project was to improve my skills in code refactoring, specifically in the context of HTML and CSS. I wanted to enhance my ability to write clean, organized, and maintainable code, which is crucial in professional software development.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+   Although this project was assigned as homework, my motivation to build it was driven by the desire to consolidate my understanding of HTML and CSS concepts. By actively engaging in refactoring, I aimed to solidify my knowledge and gain hands-on experience in improving code quality.
 
-## Table of Contents (Optional)
+   The primary problem that this project solves is the presence of poorly structured or messy code. Refactoring and organizing the code according to best practices enhances readability, maintainability, and collaboration with other developers. It also improves the overall efficiency of the code, making it easier to identify and fix bugs or add new features in the future.
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
+   Through this project, I gained valuable insights and learning experiences. I deepened my understanding of HTML and CSS syntax and their respective best practices. Refactoring the code allowed me to explore ways to improve code readability and maintainability. Additionally, I became familiar with using Git and GitHub for version control, enabling me to track changes, collaborate with others, and manage code repositories effectively. Overall, this project broadened my knowledge and skills in web development, refining my ability to write clean and well-structured code.
 
-- [Installation](N/A)
-- [Usage](#MIT)
-- [Credits](#credits)
-- [License](#license)
+## Table of Contents: 
+Paragraph 1: What was the assignment or task?
+Paragraph 2: What was your motivation?
+Paragraph 3: Why did you build this project?
+Paragraph 4 What problem does it solve?
+Paragraph 5:What did you learn?
+
 
 ## Installation
 N/A
 
 ## Usage
 
+
 Use this Link: 
+<img src = "./assets/images/Screenshot.png" >
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
+## Credits: Team Work Make the Dream Work! We worked together systematically on zoom totaling a total of 15+ Hours
+Annie Sosa, https://github.com/asosadia88
+Rujane Mena, GitHub.com/rujainemena
+Liz Garcia, https://github.com/bizwliz
+Jovanni Bogardus, https://github.com/jovannibogardus
+Phil Loy 
+Lourdes Dorvilus https://github.com/lo-mido
 ## Tutorial Links: 
 https://courses.bootcampspot.com/courses/3883/assignments/57119?module_item_id=1004720
 https://www.w3schools.com/css/css_selectors.asp
@@ -48,7 +44,6 @@ https://apps.apple.com/us/app/mimo-learn-coding-programming/id1133960732?ppid=36
 https://youtu.be/tRZGeaHPoaw 
 ## License
 
-MIT License
 MIT License
 
 Copyright (c) 2023 Lourdes Dorvilus
@@ -75,6 +70,5 @@ SOFTWARE.
 ## How to Contribute
 Lourdes M. Dorvilus
 ## Tests
-Using VS Code
+Using VS Code & GIT HUB to host the webpage.
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
