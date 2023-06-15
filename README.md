@@ -26,6 +26,8 @@ N/A
 
 Use this Link: 
 <img src = "./assets/images/Screenshot.png" >
+<a href=“https://lo-mido.github.io/Horiseon.Refactor/”> Link to Live Website.</a>
+
 
 
 ## Credits: Team Work Make the Dream Work! We worked together systematically on zoom totaling a total of 15+ Hours
